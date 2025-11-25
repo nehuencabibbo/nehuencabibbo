@@ -19,9 +19,9 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nehuencabibbo/nehuencabibbo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nehuencabibbo/nehuencabibbo/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nehuencabibbo/nehuencabibbo/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="pacman-contribution-graph.svg">
 </picture>
 
 ###
